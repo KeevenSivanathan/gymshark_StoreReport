@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/KeevenSivanathan/gymshark_StoreReport">
-    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo" width="220" height="100">
   </a>
 
   <h3 align="center">Gymshark Store Report</h3>
@@ -55,8 +55,6 @@ In this project, we will explore the process of web scraping by focusing on a st
 
 This project will focus on [Gymshark](https://us.shop.gymshark.com/pages/about-us), a fitness apparel brand that was founded in 2012 and received a £1 billion valuation in 2020.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -66,8 +64,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 - [Seaborn Visualization](https://seaborn.pydata.org/)
 - [FPDF](http://www.fpdf.org/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
 
@@ -124,8 +120,6 @@ Libraries that need to be installed:
 
     <img src="assets/function.png" alt="How the scraper works">
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- PROCESS -->
 
 ## Process
@@ -136,16 +130,12 @@ Libraries that need to be installed:
 
 3. Using seaborn and matplotlib to create data visualizations to show the breakdown of the online store. Then using FPDF to generate a report using those visualizations.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Results
 
 <div align="center">
     <img src="assets/example.png" alt="example"
     size="600" height="600">
 </div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -156,8 +146,6 @@ Libraries that need to be installed:
 OR
 
 Email me --> keeveneven@gmail.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -171,8 +159,6 @@ Resources I used in order to build this project.
 - [Img Shields](https://shields.io)
 - [DaFont](https://www.dafont.com/bebas-neue.font)
 - [Gymshark](https://gymshark.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
